@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(242, 243, 174);
+    background-image: url(./images/background.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title {
+    text-align: center;
+    font-size: x-large;
+}
+.title-image {
+    text-align: center;
+}
+img {
+    border: 5px solid rgb(0, 0, 0);
+}
+.info,
+.lists { 
+    background-color: rgba(255, 255, 250, 0.74);
+    padding: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
